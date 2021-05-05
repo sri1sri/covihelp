@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>405082217519-gihk8d082fh8i7itbpk0icsniu0hv5hn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.405082217519-gihk8d082fh8i7itbpk0icsniu0hv5hn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5wAZZSsbIYqs1kQK1SnA-6WEWfS2glio</string>
+	<key>GCM_SENDER_ID</key>
+	<string>405082217519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.covihelp</string>
+	<key>PROJECT_ID</key>
+	<string>covihelp-2d17a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>covihelp-2d17a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:405082217519:ios:6454cebaa5d9073384fada</string>
+	<key>DATABASE_URL</key>
+	<string>https://covihelp-2d17a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
